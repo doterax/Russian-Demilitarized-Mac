@@ -2,7 +2,7 @@
 
 ### Cлава Украине! ###
 
-![Input Sources Menu](http://i.stack.imgur.com/0SLce.png)
+![Input Sources Menu](example.png?raw=true)
 
 Tired of staring at a Russian flag while your country is being invaded by the Russian army, but still need to type with different keyboards including the Russian character set? Then just copy the `.keylayout` and `.icns` file into `/Library/Keyboard\ Layouts/` on your Mac! You probably need to reboot and then you may choose the layout under System Preferences->Keyboard->Input Sources.
 
