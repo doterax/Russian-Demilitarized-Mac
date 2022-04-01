@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-09-20 at 12:52 (CEST)-->
 <!--Last edited by Ukelele version 3.0.0.6 on 2015-08-07 at 16:47 (GMT+7)-->
-<keyboard group="7" id="19924" maxout="1" name="Ukrainian (Russian)">
+<keyboard group="7" id="19924" maxout="1" name="Russian (Demilitarized)">
 	<layouts>
 		<layout first="0" last="0" mapSet="a8" modifiers="30"/>
 	</layouts>
